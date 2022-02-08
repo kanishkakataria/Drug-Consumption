@@ -1,7 +1,7 @@
 # Drug-Consumption
 
 
-This aim is to perform classification of a person as non-user or user of a certain drug given the personality traits (ethinicity,gender etc) and other records belonging to 7 classes of consumption for various drugs.
+The aim is to perform classification of a person as non-user or user of a certain drug given the personality traits (ethinicity,gender etc) and other records belonging to 7 classes of consumption for various drugs.
 The 7 classes are segregated into two classes namely User and Non-user like "Never Used","Used over a decade Ago " forms a class a class of Non-user
 <h2> Why This Dataset </h2>
 <br>
