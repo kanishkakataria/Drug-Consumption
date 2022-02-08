@@ -1,8 +1,15 @@
 # Drug-Consumption
 
-(Group project)
+<br>(Group project)</br>
 This aim is to perform classification of a person as non-user or user of a certain drug given the personality traits (ethinicity,gender etc) and other records belonging to 7 classes of consumption for various drugs.
 The 7 classes are segregated into two classes namely User and Non-user like "Never Used","Used over a decade Ago " forms a class a class of Non-user
+<h3> Why This Dataset </h3>
+<br>
+Narcotic drugs or recreational drugs leave a devastating impact on the person who consumes it. Since, they result to chemical changes, parameters and properties of blood, can be used to predict the usage.
+Drug use increases risk of poor health, along with earlier mortality and morbidity, and has significant consequences for society. 
+Classification is done for this data to obtain valuable results which can be helpful in predicting and hence, eradicating drug usage.</br>
+ 
+
 <h3> PREPROCESSING </h3>
 <br>
 <h2>1. ENCODING:</h2>
