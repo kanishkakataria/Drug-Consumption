@@ -29,7 +29,7 @@ The 7 classes are segregated into two classes namely User and Non-user like "Nev
 
 <br>4. Pick the first K entries from the sorted collection. Get the labels of the selected K entries. /return the mode of the selected entries.</br>
 
-<h2>DESICION TREE<h2>
+<h2>DESICION TREE</h2>
 <br>Decision Trees are a type of Supervised Machine Learning where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes and leaves. The leaves are the decisions or the final outcomes. And the decision nodes are where the data is split.
 
 In Decision Trees, for predicting a class label for a record we start from the root of the tree. We compare the values of the root attribute with the record’s attribute. On the basis of comparison, we follow the branch corresponding to that value and jump to the next node.</br>
