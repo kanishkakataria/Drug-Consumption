@@ -3,15 +3,19 @@
 <br>(Group project)</br>
 This aim is to perform classification of a person as non-user or user of a certain drug given the personality traits (ethinicity,gender etc) and other records belonging to 7 classes of consumption for various drugs.
 The 7 classes are segregated into two classes namely User and Non-user like "Never Used","Used over a decade Ago " forms a class a class of Non-user
-<h3> Why This Dataset </h3>
+<h2> Why This Dataset </h2>
 <br>
 Narcotic drugs or recreational drugs leave a devastating impact on the person who consumes it. Since, they result to chemical changes, parameters and properties of blood, can be used to predict the usage.
 Drug use increases risk of poor health, along with earlier mortality and morbidity, and has significant consequences for society. 
 Classification is done for this data to obtain valuable results which can be helpful in predicting and hence, eradicating drug usage.</br>
  
 
-<h3> PREPROCESSING </h3>
+<h2> PREPROCESSING </h2>
 <br>
+<br>- The dataset was tested for presence of Nan or null values. </br>
+
+<br>-  We found it was a fairly clean dataset with all input variables being real valued and output variables were an object in itself.</br>
+</br>
 <h2>1. ENCODING:</h2>
   </br>
 
@@ -25,7 +29,7 @@ Classification is done for this data to obtain valuable results which can be hel
 
 <br>Apart from this, not much preprocessing was required as the values were already quantified and normalised.</br>
 <h3> ALGORITHMNS USED </h3>
-<h2> KNN </h2>
+<h3> KNN </h3>
 
 <br>The KNN is a non-parametric, lazy-learning and  supervised learning algorithm that is based on principle that similar things exist in close proximity.</br>
 
@@ -39,7 +43,7 @@ Classification is done for this data to obtain valuable results which can be hel
 
 <br>4. Pick the first K entries from the sorted collection. Get the labels of the selected K entries. /return the mode of the selected entries.</br>
 
-<h2>2. DESICION TREE</h2>
+<h3>2. DESICION TREE</h3>
 <br>Decision Trees are a type of Supervised Machine Learning where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes and leaves. The leaves are the decisions or the final outcomes. And the decision nodes are where the data is split.
 
 In Decision Trees, for predicting a class label for a record we start from the root of the tree. We compare the values of the root attribute with the record’s attribute. On the basis of comparison, we follow the branch corresponding to that value and jump to the next node.</br>
